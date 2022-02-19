@@ -79,3 +79,5 @@ page_sections:
 
 ---
 This is a test
+
+![](/uploads/logo.jpg)
